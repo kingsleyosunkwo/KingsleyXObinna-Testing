@@ -83,11 +83,11 @@ This exports the dataset to Excel with variable names as the first row.
 
 
 # File Descriptions
-Northern region data.dta: Cleaned dataset containing data specific to the Northern region.
-Mean Mining and standard deviation.dta: Aggregated dataset with mean and standard deviation of mining employment by county.
-Graphs:
+- Northern region data.dta: Cleaned dataset containing data specific to the Northern region.
+- Mean Mining and standard deviation.dta: Aggregated dataset with mean and standard deviation of mining employment by county.
+- Graphs:
 Boxplot by Municipality Group.
 Boxplot by County Code.
 Scatter Plot for Mining Employment vs. Education.
-Exported Data for GIS.csv: Final dataset prepared for GIS analysis.
-Excel file for GIS.xls: Final dataset exported in Excel format.
+- Exported Data for GIS.csv: Final dataset prepared for GIS analysis.
+- Excel file for GIS.xls: Final dataset exported in Excel format.
